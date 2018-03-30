@@ -1,3 +1,5 @@
-Mars is the fourth planet
+Mars is the fourth planet.
 
-Mars is also known as the red planet
+Mars is also known as the red planet.
+
+There has been water discovered on Mars.
